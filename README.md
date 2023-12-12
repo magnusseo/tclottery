@@ -7,7 +7,7 @@
     <br>
 </h2>
 
-<h4 align="center">MAGNUS SEO</h4>
+<h4 align="center"><a href="#contributing">tclottery.bet</a></h4>
 
 <p align="center">
   <img src="https://img.shields.io/bundlephobia/min/dummy-code?label=Package" alt="npm package size">
@@ -82,9 +82,9 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 ---
 
 <p align="center">
-Made with 💖 by Codinasion
+Made with 💖 by MAGNUS
 </p>
 
 ---
 
-[11]: https://github.com/orgs/codinasion/discussions "Discussions"
+[11]: https://magnusseo.medium.com "Discussions"
