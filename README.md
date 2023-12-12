@@ -3,11 +3,11 @@
         <img src="https://tclottery.bet/wp-content/uploads/2023/12/tclottery-icon.png" alt="Dummy Code" width="100" />
     </a>
     <br>
-    Dummy Code
+    TC Lottery
     <br>
 </h2>
 
-<h4 align="center">TC Lottery Hack 2023</h4>
+<h4 align="center">MAGNUS SEO</h4>
 
 <p align="center">
   <img src="https://img.shields.io/bundlephobia/min/dummy-code?label=Package" alt="npm package size">
@@ -64,7 +64,7 @@ If you want to contribute to this project, please read the [CONTRIBUTING.md](CON
 <table>
   <tr>
     <td>
-    <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="190">
+    <img align="left" src="" width="190">
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
