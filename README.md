@@ -1,13 +1,13 @@
 <h2 align="center">
     <a href="https://www.npmjs.com/package/dummy-code">
-        <img src="LOGO.png" alt="Dummy Code" width="100" />
+        <img src="https://tclottery.bet/wp-content/uploads/2023/12/tclottery-icon.png" alt="Dummy Code" width="100" />
     </a>
     <br>
     Dummy Code
     <br>
 </h2>
 
-<h4 align="center">A collection of useful TypeScript functions</h4>
+<h4 align="center">TC Lottery Hack 2023</h4>
 
 <p align="center">
   <img src="https://img.shields.io/bundlephobia/min/dummy-code?label=Package" alt="npm package size">
