@@ -64,13 +64,11 @@ If you want to contribute to this project, please read the [CONTRIBUTING.md](CON
 <table>
   <tr>
     <td>
-    <img align="left" src="" width="190">
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
       <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
     </ul>
-    <img width="900" height="0">
     </td>
   </tr>
 </table>
